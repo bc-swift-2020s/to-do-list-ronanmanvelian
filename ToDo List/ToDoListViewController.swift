@@ -37,7 +37,7 @@ class ToDoListViewController: UIViewController {
                 print("✅ Notifications Authorization Granted!")
             } else {
                 print("🚫 The user has denied notifications!")
-                //TODO: Put an alert in here telling the user what to do
+                //TODO: Put an alert in here telling the user what to do.
             }
         }
     }
